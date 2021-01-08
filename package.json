@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "pdfjs-dist": "^2.5.207",
+    "pdfreader": "^1.2.8",
     "vue": "^2.6.11"
   },
   "devDependencies": {
